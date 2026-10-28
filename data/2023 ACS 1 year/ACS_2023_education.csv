@@ -1,0 +1,25 @@
+State,educ_level,estimate,percent
+nc,total populat,8512992,NA
+nc,Less than high school graduate,819982,0.0963212463960967
+nc,High school graduate (includes equivalency),2201183,0.2585674930741154
+nc,Some college or associate's degree,2599466,0.305352806627799
+nc,Bachelor's degree,1856081,0.21802921933909958
+nc,Graduate or professional degree,1036280,0.12172923456288928
+ga,total populat,8494879,NA
+ga,Less than high school graduate,931700,0.10967784238009747
+ga,High school graduate (includes equivalency),2363306,0.27820360949226
+ga,Some college or associate's degree,2445903,0.28792676152303054
+ga,Bachelor's degree,1702091,0.20036671505268056
+ga,Graduate or professional degree,1051879,0.12382507155193147
+md,total populat,4821332,NA
+md,Less than high school graduate,450133,0.09336278854059418
+md,High school graduate (includes equivalency),1204975,0.24992574666088127
+md,Some college or associate's degree,1208320,0.2506195383350493
+md,Bachelor's degree,1041968,0.21611621020912894
+md,Graduate or professional degree,915936,0.1899757162543463
+fl,total populat,18231710,NA
+fl,Less than high school graduate,1827135,0.10021742337937582
+fl,High school graduate (includes equivalency),5039207,0.2763979352457888
+fl,Some college or associate's degree,5417939,0.29717119238952355
+fl,Bachelor's degree,3763715,0.20643784921984829
+fl,Graduate or professional degree,2183714,0.11977559976546358

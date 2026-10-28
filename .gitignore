@@ -1,0 +1,18 @@
+.DS_Store
+.Rproj.user/
+*.Rproj
+.Rhistory
+.RData*
+.Renviron
+
+# Full survey file and the script that reads it stay local; data/analysis_data/ is shared
+scripts/00_analysis_dataset.R
+data/raw/
+data/2023 ACS 1 year/*.xlsx
+data/2023 ACS 1 year/ACS_2023_income.csv
+data/derived/*
+
+# Generated outputs and earlier code versions
+outputs/*
+archive/
+*.bak
